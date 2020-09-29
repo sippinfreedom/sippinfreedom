@@ -1,6 +1,6 @@
-<h2 align="center">Hello user! I'm Barcode. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">Hello user! I'm freedom. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <br>
-<br>
+I'm a small developer that likes to make things easier for people, even it's against tos :) I like to do some front-end web developing a i like to make my "apps" with same design. I'm currently learning Kotlin to do mobile apps or games.
 <br>
 
 ### 📫 Languages and Tools <3
