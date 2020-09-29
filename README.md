@@ -2,7 +2,6 @@
 <br>
 <br>
 <br>
-<hr>
 <h2 align="center">I'm a small developer that likes to make things easier for people, even it's against tos :) I like to do some front-end web developing a i like to make my "apps" with same design. I'm currently learning Kotlin to do mobile apps or games.</h2>
 ### 📫 Languages and Tools <3
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"></code>&nbsp;
@@ -13,8 +12,8 @@
 <br>
 <br>
 ### 📈 GitHub Stats :)
-
-<a href="https://github.com/Barcodeeee">
+<br>
+<a href="https://github.com/sippinfreedom">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Barcodeeee&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=00FFFF&text_color=9f9f9f&bg_color=151515" alt="Barcode's Stats" />
 </a>
 <br><br>
