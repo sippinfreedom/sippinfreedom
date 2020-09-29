@@ -2,7 +2,8 @@
 <br>
 <br>
 <br>
-I'm a small developer that likes to make things easier for people, even it's against tos :) I like to do some front-end web developing a i like to make my "apps" with same design. I'm currently learning Kotlin to do mobile apps or games.
+<hr>
+<h2 align="center">I'm a small developer that likes to make things easier for people, even it's against tos :) I like to do some front-end web developing a i like to make my "apps" with same design. I'm currently learning Kotlin to do mobile apps or games.</h2>
 ### 📫 Languages and Tools <3
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
