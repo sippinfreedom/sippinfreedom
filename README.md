@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<h2 align="center">I'm a small developer that likes to make things easier for people, even it's against tos :) I like to do some front-end web developing a i like to make my "apps" with same design. I'm currently learning c# with .net frameworks.</h2>
+<h2 align="center">I'm a small developer that likes to make things easier for people, even if it's against tos :) I like to do some front-end web developing a i like to make my "apps" with same design. I'm currently learning c# with .net frameworks.</h2>
 📫 Languages and Tools <3
 <br>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"></code>&nbsp;
