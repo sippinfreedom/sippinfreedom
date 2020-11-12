@@ -1,7 +1,7 @@
 <br>
 <br>
 <br>
-freedom
+<h1> freedom </h1>
 <br>
 <a href="https://github.com/sippinfreedom">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sippinfreedom&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=00FFFF&text_color=9f9f9f&bg_color=151515" alt="freedom's Stats" />
