@@ -1,6 +1,4 @@
-<br>
-<br>
-<br>
+
 <h1> freedom </h1>
 <br>
 <a href="https://github.com/sippinfreedom">
